@@ -39,7 +39,6 @@
 	<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<!-- 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> -->
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 	<img src="https://img.shields.io/badge/Shell-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ShellScript-%231f425f.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
