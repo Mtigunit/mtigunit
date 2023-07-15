@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-[![mtigunit's 42 stats](https://badge.mediaplus.ma/binary/mtigunit)](https://github.com/oakoudad/badge42)
+<a
+    aline="center"
+    href="https://github.com/oakoudad/badge42"><img
+    src="https://badge.mediaplus.ma/binary/mtigunit"
+    alt="mtigunit's 42 stats" />
+</a>
 
-<!--
-Here are some ideas to get you started:
+- 👀 I’m interested in learning anything related to programming.
+- 🌱 I’m currently learning c, c++, python, html, css, js.
+- 🏫 I’m currently studying at 1337 school [1337 website](https://1337.ma/en/) part of 42 networks [42 website](https://42.fr/en/network-42/).
+- 👐 Welcome to my GitHub and wish to help you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
