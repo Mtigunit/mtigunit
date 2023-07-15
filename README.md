@@ -1,13 +1,15 @@
 
 <h1><p align="center">Hi there! I am Mimoun Tigunit, welcome to my profile<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThmOWp3Z2lnaG41ZmVzbmc3MWNueXhmaWs4NG01Nmw1NzRoaXpoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"/> </h1></p>
 
+<!-- Intra profile -->
 <p align="center">
 	<a href="https://profile.intra.42.fr/users/mtigunit"><img src="https://badge.mediaplus.ma/binary/mtigunit" alt="mtigunit's 42 stats" /></a> 
 </p>
 
+<!-- Github state -->
 <br>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=mtigunit&show_icons=true&theme=holi&hide_border=false&include_all_commits=true&count_private=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=mtigunit&show_icons=true&theme=holi" />
 </p>
 
 <br>
@@ -47,6 +49,7 @@
 	<img src="https://img.shields.io/badge/network-%230769AD.svg?&style=for-the-badge&logo=cisco&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Makefile-%23005f0f.svg?style=for-the-badge"/>
 	<img src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+	<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ## GitHub Trophies
