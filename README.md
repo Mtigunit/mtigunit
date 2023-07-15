@@ -2,12 +2,6 @@
 ### Hi there 👋
 
 [![mtigunit's 42 stats](https://badge.mediaplus.ma/binary/mtigunit)](https://github.com/oakoudad/badge42)
-<a 
-  href="https://github.com/oakoudad/badge42"><img
-  align="center"
-  src="https://badge.mediaplus.ma/binary/mtigunit"
-  alt="mtigunit's 42 stats" />
-</a>
 
 <!--
 Here are some ideas to get you started:
