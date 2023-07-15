@@ -1,7 +1,5 @@
 <h1><p align="center">Hi there! I am Mimoun Tigunit, welcome to my profile<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThmOWp3Z2lnaG41ZmVzbmc3MWNueXhmaWs4NG01Nmw1NzRoaXpoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"/> </h1></p>
 
-
-
 <p align="center">
 	<a href="https://profile.intra.42.fr/users/mtigunit"><img src="https://badge.mediaplus.ma/binary/mtigunit" alt="mtigunit's 42 stats" /></a> 
 </p>
@@ -15,7 +13,7 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtigunit&show_icons=true&locale=en&theme=holi&"/>
 </p>
-<br><br>
+<br>
 
 ## Socials:
 <p align="center"> 
@@ -50,10 +48,7 @@
 
 </p>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=mtigunit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mtigunit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtigunit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mtigunit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=mtigunit&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
