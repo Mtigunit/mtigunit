@@ -1,22 +1,23 @@
 <h1><p align="center">Hi there! I am Mimoun Tigunit, welcome to my profile<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThmOWp3Z2lnaG41ZmVzbmc3MWNueXhmaWs4NG01Nmw1NzRoaXpoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"/> </h1></p>
-<br><br>
+
+
+
 <p align="center">
 	<a href="https://profile.intra.42.fr/users/mtigunit"><img src="https://badge.mediaplus.ma/binary/mtigunit" alt="mtigunit's 42 stats" /></a> 
 </p>
 
-<br><br>
+<br>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=mtigunit&show_icons=true&theme=holi" />
 </p>
 
-<br><br>
+<br>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtigunit&show_icons=true&locale=en&theme=holi&"/>
 </p>
 <br><br>
 
-
-<summary><h2 align="center">Contact:</h2></summary>
+## Socials:
 <p align="center"> 
 	<a href="https://www.facebook.com/mimoun.tigunit/" target="_blanck" alt="">
 		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -34,3 +35,25 @@
 		<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 	</a>
 </p>
+
+## Tech Stack:
+<p align="center">
+	<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<!-- 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> -->
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+	<img src="https://img.shields.io/badge/Shell-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ShellScript-%231f425f.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Virtualization-%23007ACC.svg?&style=for-the-badge&logo=virtualbox&logoColor=white"/>
+	<img src="https://img.shields.io/badge/network-%230769AD.svg?&style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=mtigunit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mtigunit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtigunit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mtigunit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
