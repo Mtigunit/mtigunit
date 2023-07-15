@@ -1,7 +1,7 @@
 <h1><p align="center">Hi there! I am Mimoun Tigunit, welcome to my profile<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThmOWp3Z2lnaG41ZmVzbmc3MWNueXhmaWs4NG01Nmw1NzRoaXpoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px"/> </h1></p>
 <br><br>
 <p align="center">
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mtigunit" alt="mtigunit's 42 stats" /></a> 
+	<a href="https://profile.intra.42.fr/users/mtigunit"><img src="https://badge.mediaplus.ma/binary/mtigunit" alt="mtigunit's 42 stats" /></a> 
 </p>
 
 <br><br>
