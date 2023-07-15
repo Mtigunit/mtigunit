@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 
 [![mtigunit's 42 stats](https://badge.mediaplus.ma/binary/mtigunit)](https://github.com/oakoudad/badge42)
 
