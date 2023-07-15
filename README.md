@@ -45,7 +45,8 @@
 	<img src="https://img.shields.io/badge/ShellScript-%231f425f.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Virtualization-%23007ACC.svg?&style=for-the-badge&logo=virtualbox&logoColor=white"/>
 	<img src="https://img.shields.io/badge/network-%230769AD.svg?&style=for-the-badge&logo=cisco&logoColor=white"/>
-
+	<img src="https://img.shields.io/badge/Makefile-%23005f0f.svg?style=for-the-badge"/>
+	<img src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ## GitHub Trophies
