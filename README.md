@@ -1,5 +1,7 @@
 <h1>
-	<p aline="center" width="100%" > Hi there! I am Mimoun Tigunit, welcome to my profile</p>
+	<p aline="center" width="100%" >
+		Hi there! I am Mimoun Tigunit, welcome to my profile
+	</p>
 </h1>
 <a
 	aline="center"
