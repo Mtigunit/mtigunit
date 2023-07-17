@@ -26,13 +26,13 @@
 	<a href="https://twitter.com/mtigunit" target="_blanck" alt="twitter">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 	</a>
-	<a href="https://www.instagram.com/mimoun_tg/" target="_blanck" alt="">
+	<a href="https://www.instagram.com/mimoun_tg/" target="_blanck" alt="Instagram">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 	</a>
-	<a href="https://www.linkedin.com/in/mimoun-tigunit-60142924b/" target="_blanck" alt="">
+	<a href="https://www.linkedin.com/in/mimoun-tigunit-60142924b/" target="_blanck" alt="LinkedIn">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
-	<a href="#" target="_blanck" alt="">
+	<a href="#" target="_blanck" alt="Gmail">
 		<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
 </p>
