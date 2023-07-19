@@ -14,7 +14,7 @@
 
 <br>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtigunit&show_icons=true&locale=en&theme=holi"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtigunit&exclude_repo=github-readme-stats,mtigunit.github.io&show_icons=true&locale=en&theme=holi"/>
 </p>
 <br>
 
