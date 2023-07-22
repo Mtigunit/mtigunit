@@ -46,7 +46,6 @@
 	<img src="https://img.shields.io/badge/Shell-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/ShellScript-%231f425f.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Makefile-%23005f0f.svg?style=for-the-badge"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
