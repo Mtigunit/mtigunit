@@ -19,7 +19,7 @@
 
 ## Socials:
 <p align="center"> 
-	<a href="https://www.facebook.com/mimoun.tigunit/" target="_blanck" alt="">
+<!-- 	<a href="https://www.facebook.com/mimoun.tigunit/" target="_blanck" alt="">
 		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
 	</a>
 	<a href="https://twitter.com/mtigunit" target="_blanck" alt="twitter">
@@ -27,7 +27,7 @@
 	</a>
 	<a href="https://www.instagram.com/mimoun_tg/" target="_blanck" alt="Instagram">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-	</a>
+	</a> -->
 	<a href="https://www.linkedin.com/in/mimoun-tigunit-60142924b/" target="_blanck" alt="LinkedIn">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
@@ -37,7 +37,7 @@
 </p>
 
 ## Tech Stack:
-<p align="center">
+<!-- <p align="center">
 	<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,7 +46,7 @@
 	<img src="https://img.shields.io/badge/ShellScript-%231f425f.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Makefile-%23005f0f.svg?style=for-the-badge"/>
 	<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+</p> -->
 
 ## GitHub Trophies
 <p align="center">
