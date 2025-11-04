@@ -82,8 +82,7 @@
 ---
 
 ## 🔍 Currently Exploring
-- 💻 Advanced Web3 and smart contract development (ERC-20, ERC-721, BEP-20)
-- 🧱 Blockchain concepts & dApps
+- 🔐 Cybersecurity Projects: Focusing on PWN techniques, vulnerability analysis, and exploitation frameworks as part of academic coursework.
 - ☁️ DevOps and containerization with Docker & Kubernetes
 
 ---
