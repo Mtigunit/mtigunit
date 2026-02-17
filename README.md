@@ -81,10 +81,4 @@
 
 ---
 
-## 🔍 Currently Exploring
-- 🔐 Cybersecurity Projects: Focusing on PWN techniques, vulnerability analysis, and exploitation frameworks as part of academic coursework.
-- ☁️ DevOps and containerization with Docker & Kubernetes
-
----
-
 > “The only way to do great work is to love what you do.” – *Steve Jobs*
