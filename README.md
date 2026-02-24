@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🚀 Welcome to my GitHub! I'm a passionate developer, currently sharpening my skills at 42 School. I enjoy building things that live on the web and exploring the world of Web3, blockchain, and infrastructure.
+  🚀 Welcome to my GitHub! I'm a passionate developer, currently sharpening my skills at 42 School. I enjoy building things that live on the web.
 </p>
 
 ---
