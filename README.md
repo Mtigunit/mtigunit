@@ -26,9 +26,6 @@
   <a href="mailto:mimountigunit@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/mtigunit" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </p>
 
 ---
